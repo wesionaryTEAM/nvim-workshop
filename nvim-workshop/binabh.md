@@ -1,24 +1,31 @@
 
 ## Vim 
 
-binabh start
+- Modal Text Editor
 
-- Modal Text editing 
-- Modes
-- etc. 
+Editing a text editor whose keyboard behavior changes depending on the working mode
+- Vim Modes
+    
+    - Normal ⌨️
+        - Leader ⌨️
+    - Insert ⌨️
+    - Visual ⌨️
+    - Visual Line ⌨️
 
 ---
 
 ## Why VIM ? 
 
-- because cant exit.
+- Because can't exit 😢
+- Because it looks cool 😎
+- There is no other option
 
 ---
 
 ## Vim vs Nvim
 
-- history ...
-
+- Vi improved
+- Since 1991
 - PDE (Personalized Development Environment)
 
 ---
@@ -27,5 +34,4 @@ binabh start
 
 - `brew install nvim`
 
-binabh end
 
