@@ -22,12 +22,12 @@ A text editor whose keyboard behavior changes depending on the working mode
 
 - Because it looks cool 😎
 
-<img src="vim_cool.jpg" alt="Vim Exit" width="200" height="200"/>
+<img src="vim_cool.jpg" alt="Vim Exit" width="400" height="200"/>
 ---
 
 - Because you want to suffer 😭
 
-<img src="vim_suffer.jpg" alt="Vim Exit" width="200" height="200"/>
+<img src="vim_suffer.jpg" alt="Vim Exit" width="500" height="200"/>
 ---
 
 But, seriously
@@ -60,3 +60,4 @@ But, seriously
 - `sudo dnf install neovim`
 
 ### Lets get started
+<img src="vim_pill.png" alt="Vim Pill" width="500" height="100"/>
