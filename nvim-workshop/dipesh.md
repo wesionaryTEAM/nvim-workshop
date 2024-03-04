@@ -48,37 +48,79 @@ end
 
 ```
 
+--- 
+
+# Plugin System 
+
+- Personalized Development Environment (PDE)
+- Coding IDE yourself 
+
+- VimScript (old method), Lua (new one)
+- vim configurations made using programming, extremely customizable
+
+
+---
+
+# Lazy Plugin Manager 
+
+- folke/lazy.nvim (gaining popularity), wbthomason/packer.nvim
+
+- Lazy load modules depending on different conditions 
+
+  eg; new file loaded, new file created, file saved etc...
+
+- [lazy.nvim](https://github.com/folke/lazy.nvim), (a lot of features) 
 
 
 --- 
 
-## Plugin System 
+# Basic plugins
 
-- code your ide yourself
+- Telescope (File Search, Finder)
+- LSP Configuration Plugins 
+- Conform (Autoformatting Plugin)
+- nvim-cmp (Completion Plugin)
+- Snippets engine (LuaSnip)
+- Themes (tokyonight)
+- Status Lines
+- Treesitter
+- Harpoon
+- Undotree
 
---- 
-
-## Basic plugins
-
----
-
-## Comparing VSCode plugins with nvim
-
----
-
-## To much configuration ... (configuration hell?)
-
-- existing distros .... 
-- kickstart.vim 
+🤯
 
 ---
 
-## Question/Answers
+# Comparing VSCode plugins with nvim
+
+| vscode | nvim | 
+| -- | -- |
+| autocompletion | nvim-cmp | 
+| snippets | lua snip | 
+| debugger | nvim dap | 
+| code formatting | null ls | 
+| file finding | Telescope | 
+| Git | LazyGit, Fugitive | 
+
+---
+
+# To much configuration ... (configuration hell?)
+
+- Preconfigured distributions (Full fledged IDE's using nvim) 
+  - LazyVim, NvChad
+
+- Super minimal configuration (kickstart.nvim)
+- Statrting point for configuring and playing with nvim
+- Youtube video from creator of kickstart. [here](https://www.youtube.com/watch?v=m8C0Cq9Uv9o)
+
+---
+
+# Question/Answers
 
 - can nvim do this? my ide does it... 
 
 ---
 
-## Developer Workflow
+# Developer Workflow
 
-- tmux, fzf, nvim (my workflow)
+- tmux, fzf, nvim (my workflow) and walkthrough
