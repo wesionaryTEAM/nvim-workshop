@@ -8,9 +8,11 @@ A text editor whose keyboard behavior changes depending on the working mode
     
     - Normal ⌨️
         - Leader ⌨️
+        - Command ⌨️
     - Insert ⌨️
     - Visual ⌨️
     - Visual Line ⌨️
+    - Replace ⌨️
 
 ---
 
