@@ -22,7 +22,13 @@
 # Learning Materials
 
 - Vim tutor
-- Vim snake game ... (Vim Adventures) 
+
+  in normal mode, type `:Tutor` and enter. Official vim tutorial.
+
+- [Vim snake game](https://vimsnake.com/)
+
+- [Vim Adventures](https://vim-adventures.com/) 
+
 
 --- 
 
