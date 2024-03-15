@@ -42,17 +42,14 @@ ZQ - Quit without checking for changes.
 
 - number + motion + action
 
+[Vim motion cheatsheet](https://devhints.io/vim)
+
 ---
 ## Try out
 
 ---
 
 ## Integration in existing ide. (Recommended learning path)
-
----
-
-## Commonly used motions
-
-- o
-- a
-- ...
+1. IdeaVim - IntelliJ (https://plugins.jetbrains.com/plugin/164-ideavim)
+2. VSCodeVim - VSCode (https://aka.ms/vscodevim)
+3. Vimium C - Chrome extension (https://chromewebstore.google.com/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)

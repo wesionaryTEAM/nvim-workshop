@@ -1,6 +1,6 @@
 # nvim-workshop
 
-- Presenters: Dipesh, Binabh, Arjun
+- Prepared by: Dipesh, Binabh, Arjun
 
 ---
 src: ./binabh.md

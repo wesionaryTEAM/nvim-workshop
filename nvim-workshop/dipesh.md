@@ -43,6 +43,10 @@
     https://en.wikipedia.org/wiki/List_of_applications_using_Lua
 
 - Some snippet [LearnXinYminutes](https://learnxinyminutes.com/docs/lua/)
+
+- A brief intro [Fireship](https://www.youtube.com/watch?v=jUuqBZwwkQw)
+
+
 ```lua
 if a > 40 then 
     print("yoo")
@@ -61,7 +65,7 @@ end
 - Personalized Development Environment (PDE)
 - Coding IDE yourself 
 
-- VimScript (old method), Lua (new one)
+- VimScript (old method) [Sample](https://gist.github.com/simonista/8703722)  , Lua (new one)
 - vim configurations made using programming, extremely customizable
 
 
@@ -88,10 +92,8 @@ end
 - nvim-cmp (Completion Plugin)
 - Snippets engine (LuaSnip)
 - Themes (tokyonight)
-- Status Lines
+- Lualine
 - Treesitter
-- Harpoon
-- Undotree
 
 🤯
 
@@ -103,7 +105,7 @@ end
 | -- | -- |
 | autocompletion | nvim-cmp | 
 | snippets | lua snip | 
-| debugger | nvim dap | 
+| debugger | nvim dap |
 | code formatting | null ls | 
 | file finding | Telescope | 
 | Git | LazyGit, Fugitive | 
@@ -115,7 +117,7 @@ end
 - Preconfigured distributions (Full fledged IDE's using nvim) 
   - LazyVim, NvChad
 
-- Super minimal configuration (kickstart.nvim)
+- Super minimal configuration [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 - Statrting point for configuring and playing with nvim
 - Youtube video from creator of kickstart. [here](https://www.youtube.com/watch?v=m8C0Cq9Uv9o)
 
